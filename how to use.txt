@@ -1,3 +1,5 @@
+https://github.com/ShanFanLan/UoA-2023-CS732-quiz-ShanFanLan
+
 1. 確認有灌好 mongodb
 
 2. 進入backend , npm install 
@@ -11,3 +13,5 @@
 6. 進入frontend , 下 npm install
 
 7. 進入frontend , 下 npm run dev
+
+http://localhost:5173/
