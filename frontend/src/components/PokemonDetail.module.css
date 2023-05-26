@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container img {
+  width: 250px;
+}
+
+.shiny h3::after {
+  content: "✨";
+}
+
+/* show heart icon if setfavorite */
+.favourite h3::before{
+  content: "💗";
+}

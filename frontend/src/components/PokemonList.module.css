@@ -1,0 +1,10 @@
+.listContainer {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.listContainer :hover {
+  background-color: rgb(242, 245, 191);
+
+}

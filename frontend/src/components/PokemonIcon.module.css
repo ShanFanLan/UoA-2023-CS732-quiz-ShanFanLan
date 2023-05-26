@@ -1,0 +1,24 @@
+.iconContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px dotted lightgray;
+}
+
+.shiny {
+  border: 2px dashed lightblue;
+}
+
+.shiny p {
+  font-style: italic;
+  color: blue;
+}
+
+.shiny p::after {
+  content: "✨";
+}
+
+/* show heart icon if setfavorite */
+.favourite p::before{
+  content: "💗";
+}

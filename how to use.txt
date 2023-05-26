@@ -1,0 +1,13 @@
+1. 確認有灌好 mongodb
+
+2. 進入backend , npm install 
+
+3. 進入backend , 下 npm run test 
+
+4. 進入backend , 下 npm init-db
+
+5. 進入backend , 下 npm start
+
+6. 進入frontend , 下 npm install
+
+7. 進入frontend , 下 npm run dev
