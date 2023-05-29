@@ -174,3 +174,5 @@ For this task, modify as much of the frontend as you'd like, so that it retains 
     ![pokemon pie](frontend/public/pie.jpg "pokemon pie")
 
     ## Enjoy my Pokemon app !!
+
+    “All submitted work is my own.” Shan-Fan Lan , ID: 618749293 , UID: slan526
